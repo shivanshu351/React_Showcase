@@ -7,8 +7,8 @@
       }
     ],
     "build": {
-      "command": "vite build",
-      "outputDirectory": "dist"
+      "command": "npm run build",
+      "outputDirectory": "vite-project/dist"
     }
   }
   
