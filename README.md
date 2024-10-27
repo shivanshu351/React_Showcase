@@ -26,7 +26,7 @@ A brief description of your project. For example: "A web application for managin
 
 ![Displaying Added Posts](screenshots/1.png)
 
-*Description: The main chat interface where users can send and receive messages in real-time.*
+*Description: Displays newly added Posts*
 
 ###    Adding New Posts
 
