@@ -18,7 +18,7 @@ A brief description of your project. For example: "A web application for managin
 
 ###    SignUp Component
 
-![SignUp component](screenshots/3.png)
+![SignUp component](screenshots/3png.png)
 
 *SignUp component for the Webpage*
 
