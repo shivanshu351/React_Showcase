@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "vite-project/package.json",
+        "use": "@vercel/node"
+      }
+    ],
+    "build": {
+      "command": "vite build",
+      "outputDirectory": "dist"
+    }
+  }
+  
