@@ -9,7 +9,7 @@ A brief description of your project. For example: "A web application for managin
 - Responsive UI built with React
 - Real-time data updates
 
-- ### Deployment Link
+### Deployment Link
 - https://react-showcase-bice.vercel.app/
 
 ## Technologies Used
