@@ -16,11 +16,25 @@ A brief description of your project. For example: "A web application for managin
 - **Styling**: CSS, or any UI library you are using (= Tailwind CSS)
 - **State Management**: (if applicable, e.g., Redux)
 
-### Chat Interface
+###    SignUp Component
+
+![SignUp component](screenshots/3.png)
+
+*SignUp component for the Webpage*
+
+### Displaying Added Posts
 
 ![Displaying Added Posts](screenshots/1.png)
 
 *Description: The main chat interface where users can send and receive messages in real-time.*
+
+###    Adding New Posts
+
+![Editor to add new Posts](screenshots/2.png)
+
+*Description: Displaying Editor to add new posts*
+
+
 
 ## Getting Started
 
