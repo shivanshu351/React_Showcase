@@ -1,6 +1,6 @@
 # Project Name
 
-A brief description of your project. For example: "A web application for managing tasks with a React frontend and Appwrite backend."
+ "A web application for managing tasks with a React frontend and Appwrite backend."
 
 ## Features
 
